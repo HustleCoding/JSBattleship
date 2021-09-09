@@ -16,10 +16,10 @@ div#messageArea {
 	color: rgb(83, 175, 19);
 }
 .hit {
-	background: url("ship.png") no-repeat center center;
+	background: transparent url("ship.png") no-repeat center center;
 }
 .miss {
-	background: url("miss.png") no-repeat center center;
+	background: transparent url("miss.png") no-repeat center center;
 }
 table {
 	border-spacing: 0px; 
