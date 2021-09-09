@@ -6,7 +6,7 @@ div#board {
 	width: 1024px;
 	height: 863px;
 	margin: auto;
-	background: url("board.jpg") no-repeat;
+	background: url("images/board.jpg") no-repeat;
 }
 
 div#messageArea {
@@ -16,10 +16,10 @@ div#messageArea {
 	color: rgb(83, 175, 19);
 }
 .hit {
-	background: transparent url("ship.png") no-repeat center center;
+	background: transparent url("images/ship.png") no-repeat center center;
 }
 .miss {
-	background: transparent url("miss.png") no-repeat center center;
+	background: transparent url("images/miss.png") no-repeat center center;
 }
 table {
 	border-spacing: 0px; 
